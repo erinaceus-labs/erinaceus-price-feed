@@ -52,3 +52,4 @@ contract PriceConsumerV3 {
     }
 }
 ```
+FOR MORE DETAILS PLEASE VISIT [docs](https://erinaceus.io/docs/price-feed/overview)
